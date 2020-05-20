@@ -1,0 +1,2 @@
+https://github.com/majidpal/mdop-cartridge-ansible-reference-role.git
+https://github.com/majidpal/mdop-cartridge-ansible-demo-scenario-playbook.git
